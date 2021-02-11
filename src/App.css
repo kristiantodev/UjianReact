@@ -1,0 +1,70 @@
+.divSecond {
+  background-color: green;
+}
+
+button {
+        background-color: #008CBA;
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        cursor: pointer;
+        font-weight: bold;
+        width: 50%;
+    }
+
+    h2{
+    	color: #008CBA;
+    }
+
+    .button {
+        background-color: #008CBA;
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12px;
+        cursor: pointer;
+        font-weight: bold;
+        margin-left: 26%;
+        margin-top: 1%;
+        width: 50%;
+    }
+
+    .inputLogin{
+        width: 50%;
+        height: 10%;
+        padding: 12px 20px;
+        margin: 8px 0 0 20px;
+        display: inline-block;
+        border: 1px solid #6495ED;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    input{
+		width: 94%;
+        height: 10%;
+        padding: 12px 20px;
+        margin: 8px 0 0 20px;
+        display: inline-block;
+        border: 1px solid #6495ED;
+        border-radius: 4px;
+        box-sizing: border-box;
+	}
+
+	.input{
+		width: 94%;
+        height: 10%;
+        padding: 12px 20px;
+        margin: 8px 0 0 20px;
+        display: inline-block;
+        border: 1px solid #6495ED;
+        border-radius: 4px;
+        box-sizing: border-box;
+	}
